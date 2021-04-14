@@ -1,7 +1,5 @@
 # asciinema
 
-[![asciicast](https://asciinema.org/a/407181.png)](https://asciinema.org/a/407181)
-
 https://asciinema.org/~ShubhamTatvamasi
 
 Install asciinema:
