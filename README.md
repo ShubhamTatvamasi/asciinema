@@ -15,6 +15,6 @@ asciinema rec -t "Hello World"
 
 play recording from cloud:
 ```bash
-asciinema play https://asciinema.org/a/407179
+asciinema play https://asciinema.org/a/407181
 ```
 
