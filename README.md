@@ -2,6 +2,11 @@
 
 https://asciinema.org/~ShubhamTatvamasi
 
+macOS:
+```bash
+brew install asciinema
+```
+
 Install asciinema:
 ```bash
 sudo apt install asciinema
