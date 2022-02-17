@@ -13,6 +13,11 @@ sudo apt install asciinema
 ```
 ---
 
+authorise your account.
+```bash
+asciinema auth
+```
+
 start recording with a title:
 ```bash
 asciinema rec -t "Hello World"
