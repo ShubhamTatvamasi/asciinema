@@ -2,18 +2,20 @@
 
 https://asciinema.org/~ShubhamTatvamasi
 
+### Install
+
 macOS:
 ```bash
 brew install asciinema
 ```
 
-Install asciinema:
+Ubuntu:
 ```bash
 sudo apt install asciinema
 ```
 ---
 
-authorise your account.
+authorise your account:
 ```bash
 asciinema auth
 ```
